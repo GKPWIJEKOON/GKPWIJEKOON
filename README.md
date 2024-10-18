@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Power BI ...**
 
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
 
-- 💬 Ask me about MERN Stack
+- 💬 Ask me about Power BI 
 
 - 📫 How to reach me **kanishkawijekoon2@gmail.com**
   
